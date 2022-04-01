@@ -16,8 +16,8 @@ function App() {
         <div className="body">
           <p>
             My childhood memories are full of laughter and fun because of you,
-            my dear big sister! I can't believe we're getting older and those
-            times seem like forever ago. <i class="fa-solid fa-heart"></i>
+            my dear sister! I can't believe we're getting older and those times
+            seem like forever ago. <i class="fa-solid fa-heart"></i>
           </p>
         </div>
         <div>
