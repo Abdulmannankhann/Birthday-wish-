@@ -28,6 +28,7 @@ body {
   margin-bottom: -30px;
   font-size: 30px;
   text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+  text-align: center;
 }
 .from {
   font-weight: 500;
